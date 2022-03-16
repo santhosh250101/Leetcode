@@ -10,8 +10,6 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        
-        //solve the problem by finding the middle of linked list
         if(head==null || head.next==null) return null;
         ListNode sp=head;
         ListNode fp= head;
