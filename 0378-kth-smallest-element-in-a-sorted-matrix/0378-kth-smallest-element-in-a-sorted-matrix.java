@@ -19,7 +19,7 @@ class Solution {
     }
     public int kthSmallest(int[][] matrix, int k) {
         int n= matrix.length;
-        PriorityQueue<Node> minHeap = new PriorityQueue<>(Math.min(n,k), new HeapComparator());
+        PriorityQueue<Node> minHeap = new PriorityQueue<>( new HeapComparator());
 
         for(int r=0;r<Math.min(n,k); r++){
             minHeap.offer(new Node(matrix[r][0], r, 0));
