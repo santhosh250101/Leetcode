@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhosh250101/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh250101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 # Sorting
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhosh250101/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santhosh250101/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Quickselect
@@ -33,3 +35,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+# Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhosh250101/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhosh250101/Leetcode/tree/master/0023-merge-k-sorted-lists) |
