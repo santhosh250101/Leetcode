@@ -1,7 +1,7 @@
 class Solution {
     public int[] frequencySort(int[] nums) {
         
-        TreeMap<Integer,Integer> fMap = new TreeMap<>(Collections.reverseOrder());
+        HashMap<Integer,Integer> fMap = new HashMap<>();
 
         for(int num: nums){
             fMap.put(num,fMap.getOrDefault(num,0)+1);
