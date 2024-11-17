@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/santhosh250101/Leetcode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhosh250101/Leetcode/tree/master/0283-move-zeroes) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -58,11 +59,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
@@ -82,4 +85,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
