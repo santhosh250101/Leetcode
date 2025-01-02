@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/santhosh250101/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,8 +114,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
