@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhosh250101/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santhosh250101/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0747-min-cost-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/santhosh250101/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/santhosh250101/Leetcode/tree/master/0213-house-robber-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
