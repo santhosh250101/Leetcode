@@ -3,14 +3,15 @@ class Solution {
 
         int[] dp = new int[n+1];
 
-        for(int i=0;i<=n;i++){
-            if(i==0 || i==1 || i==2){
-                dp[i] =i;
+        for(int i=n;i>=0;i--){
+            if(i==n || i== n-1){
+                dp[i] = 1;
             }
-            else{
-                dp[i] = dp[i-1] + dp[i-2];
+            else
+            {
+                dp[i] = dp[i+1] + dp[i+2];
             }
         }
-        return dp[n];
+        return dp[0];
     }
 }
