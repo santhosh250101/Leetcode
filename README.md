@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/santhosh250101/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/santhosh250101/Leetcode/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Counting
 |  |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santhosh250101/Leetcode/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/santhosh250101/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/santhosh250101/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
