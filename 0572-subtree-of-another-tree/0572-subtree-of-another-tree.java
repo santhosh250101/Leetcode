@@ -29,7 +29,7 @@ class Solution {
         if(isSame(root,subRoot)){
             return true;
         }
-        return isSame(root.left,subRoot) || isSame(root.right,subRoot);
+        return preorder(root.left,subRoot) || preorder(root.right,subRoot);
     } 
     public boolean isSame(TreeNode r1, TreeNode r2){
         if(r1== null && r2== null) return true;
