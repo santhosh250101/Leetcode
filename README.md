@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/santhosh250101/Leetcode/tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/santhosh250101/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhosh250101/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/santhosh250101/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -215,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/santhosh250101/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/santhosh250101/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/santhosh250101/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
