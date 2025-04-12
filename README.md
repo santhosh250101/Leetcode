@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/santhosh250101/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/santhosh250101/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/santhosh250101/Leetcode/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
