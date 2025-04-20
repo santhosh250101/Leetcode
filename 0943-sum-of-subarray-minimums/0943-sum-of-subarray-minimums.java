@@ -18,7 +18,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         for(int i=0;i<n;i++){
             int curr = heights[i];
-            while(!st.isEmpty() && curr<= heights[st.peek()]){
+            while(!st.isEmpty() && curr< heights[st.peek()]){
                 st.pop();
             }
             if(st.isEmpty()){
@@ -37,7 +37,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         for(int i=n-1;i>=0;i--){
             int curr = heights[i];
-            while(!st.isEmpty() && curr< heights[st.peek()]){
+            while(!st.isEmpty() && curr<= heights[st.peek()]){
                 st.pop();
             }
             if(st.isEmpty()){
