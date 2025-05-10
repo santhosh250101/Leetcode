@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/santhosh250101/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/santhosh250101/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
