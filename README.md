@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/santhosh250101/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/santhosh250101/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/santhosh250101/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/santhosh250101/Leetcode/tree/master/0547-number-of-provinces) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santhosh250101/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/santhosh250101/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/santhosh250101/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/santhosh250101/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/santhosh250101/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/santhosh250101/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santhosh250101/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/santhosh250101/Leetcode/tree/master/0547-number-of-provinces) |
 ## Recursion
 |  |
 | ------- |
@@ -262,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/santhosh250101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/santhosh250101/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/santhosh250101/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
