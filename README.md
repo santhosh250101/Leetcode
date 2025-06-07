@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/santhosh250101/Leetcode/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/santhosh250101/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/santhosh250101/Leetcode/tree/master/1036-rotting-oranges) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/santhosh250101/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/santhosh250101/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/santhosh250101/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/santhosh250101/Leetcode/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/santhosh250101/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -279,4 +282,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0733-flood-fill](https://github.com/santhosh250101/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/santhosh250101/Leetcode/tree/master/1036-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
