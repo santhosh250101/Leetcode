@@ -1,26 +1,5 @@
 class Solution {
     public int search(int[] nums, int target) {
-        
-        // search in rotated sorted array
-
-        /**
-        
-        0 6
-
-
-        low = 0;
-        high = 6
-
-        mid =3;
-        nums[mid] = 7;
-
-
-        nums[low] =4;
-        
-        nums[high] =2;
-
-         */
-
         int n= nums.length;
         int low =0;
         int high = n-1;
