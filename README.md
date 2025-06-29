@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/santhosh250101/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/santhosh250101/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh250101/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/santhosh250101/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/santhosh250101/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
