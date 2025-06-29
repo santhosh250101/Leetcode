@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhosh250101/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/santhosh250101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/santhosh250101/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/santhosh250101/Leetcode/tree/master/0229-majority-element-ii) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/santhosh250101/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/santhosh250101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/santhosh250101/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/santhosh250101/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/santhosh250101/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/santhosh250101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/santhosh250101/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/santhosh250101/Leetcode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/santhosh250101/Leetcode/tree/master/0205-isomorphic-strings) |
