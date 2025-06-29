@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/santhosh250101/Leetcode/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1078-remove-outermost-parentheses](https://github.com/santhosh250101/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/santhosh250101/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/santhosh250101/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/santhosh250101/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/santhosh250101/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/santhosh250101/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
