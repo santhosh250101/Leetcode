@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/santhosh250101/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/santhosh250101/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/santhosh250101/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/santhosh250101/Leetcode/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -297,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/santhosh250101/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
