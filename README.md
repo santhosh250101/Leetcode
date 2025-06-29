@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/santhosh250101/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh250101/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/santhosh250101/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santhosh250101/Leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/santhosh250101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/santhosh250101/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/santhosh250101/Leetcode/tree/master/0072-edit-distance) |
+| [0151-reverse-words-in-a-string](https://github.com/santhosh250101/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/santhosh250101/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/santhosh250101/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
