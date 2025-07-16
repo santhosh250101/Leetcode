@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/santhosh250101/Leetcode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/santhosh250101/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh250101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santhosh250101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/santhosh250101/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/santhosh250101/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/santhosh250101/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/santhosh250101/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/santhosh250101/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
