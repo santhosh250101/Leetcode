@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/santhosh250101/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/santhosh250101/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/santhosh250101/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/santhosh250101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santhosh250101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/santhosh250101/Leetcode/tree/master/0128-longest-consecutive-sequence) |
