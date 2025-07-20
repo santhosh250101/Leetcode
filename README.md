@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/santhosh250101/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/santhosh250101/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/santhosh250101/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/santhosh250101/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Counting
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/santhosh250101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/santhosh250101/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/santhosh250101/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/santhosh250101/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh250101/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/santhosh250101/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/santhosh250101/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/santhosh250101/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/santhosh250101/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/santhosh250101/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/santhosh250101/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/santhosh250101/Leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/santhosh250101/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/santhosh250101/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/santhosh250101/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
