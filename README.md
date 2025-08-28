@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/santhosh250101/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/santhosh250101/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/santhosh250101/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/santhosh250101/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/santhosh250101/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1610-xor-operation-in-an-array](https://github.com/santhosh250101/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/santhosh250101/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
