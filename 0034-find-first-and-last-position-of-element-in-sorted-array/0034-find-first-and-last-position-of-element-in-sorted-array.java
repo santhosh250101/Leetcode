@@ -1,52 +1,55 @@
 class Solution {
-    public int[] searchRange(int[] arr, int target) {
-        
-        int[] res = new int[2];
-        int low =-1;
-        int high =1;
-        int n= arr.length;
-        // first index
+    public int[] searchRange(int[] nums, int target) {
+        int[] ans = new int[2];
+        ans[0] = findFirst(nums,target);
+        ans[1] = findLast(nums,target);
 
-        int first = -1;
-         low =0;
-         high = n-1;
+        return ans;
+    }
 
+    public static int findFirst(int[] nums,int target){
+
+        int low =0;
+        int high = nums.length-1;
+
+        int ans = -1;
         while(low<=high){
-            int mid = (low+high)/2;
+            int mid = low+ ((high-low)/2);
 
-            if(arr[mid] == target){
-                first = mid;
-                high = mid-1;
+            if(nums[mid] == target){
+                ans = mid;
+                high=mid-1;
             }
-            else if(target<=arr[mid]){
-                high = mid-1;
+            else if(target<nums[mid]){
+                high= mid-1;
             }
-            else
-            {
-                low =mid+1;
+            else{
+                low= mid+1;
             }
         }
-        res[0]= first;
-                 low =0;
-         high = n-1;
-        int last = -1;
-        while(low<=high){
-            int mid = (low+high)/2;
+        return ans;
+    }
 
-            if(arr[mid] == target){
-                last = mid;
-                low = mid+1;
+    public static int findLast(int[] nums,int target){
+
+        int low =0;
+        int high = nums.length-1;
+
+        int ans = -1;
+        while(low<=high){
+            int mid = low+ ((high-low)/2);
+
+            if(nums[mid] == target){
+                ans = mid;
+                low=mid+1;
             }
-            else if(target<=arr[mid]){
-                high = mid-1;
+            else if(target<nums[mid]){
+                high= mid-1;
             }
-            else
-            {
-                low =mid+1;
+            else{
+                low= mid+1;
             }
         }
-        res[1] = last;
-        return res;
-
+        return ans;
     }
 }
