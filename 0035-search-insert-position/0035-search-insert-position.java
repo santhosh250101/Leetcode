@@ -20,13 +20,13 @@ class Solution {
             }
         }
 
-        if(target<nums[0]){
-            return 0;
-        }
-        if(target> nums[nums.length-1]){
-            return nums.length;
-        }
-        return ans;
+        // if(target<nums[0]){
+        //     return 0;
+        // }
+        // if(target> nums[nums.length-1]){
+        //     return nums.length;
+        // }
+        return low;
         /**
         
         1 2 3
