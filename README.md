@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh250101/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/santhosh250101/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/santhosh250101/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhosh250101/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/santhosh250101/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh250101/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/santhosh250101/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh250101/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
