@@ -1,9 +1,7 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
         
-        if(s.length()!=goal.length()) return false;
-
-
-        return (s+s).indexOf(goal)!=-1;
+        String concat = s+s;
+        return (goal.length() == s.length()) && concat.indexOf(goal)!=-1;
     }
 }
