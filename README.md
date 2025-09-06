@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/santhosh250101/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/santhosh250101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/santhosh250101/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/santhosh250101/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/santhosh250101/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/santhosh250101/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/santhosh250101/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/santhosh250101/Leetcode/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/santhosh250101/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/santhosh250101/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/santhosh250101/Leetcode/tree/master/1036-rotting-oranges) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
