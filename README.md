@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh250101/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/santhosh250101/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/santhosh250101/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/santhosh250101/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/santhosh250101/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/santhosh250101/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/santhosh250101/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2047-find-a-peak-element-ii](https://github.com/santhosh250101/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/santhosh250101/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/santhosh250101/Leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/santhosh250101/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/santhosh250101/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
