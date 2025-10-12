@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/santhosh250101/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -403,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/santhosh250101/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
