@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/santhosh250101/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/santhosh250101/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santhosh250101/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/santhosh250101/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/santhosh250101/Leetcode/tree/master/0908-middle-of-the-linked-list) |
