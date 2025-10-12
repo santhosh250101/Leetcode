@@ -11,15 +11,6 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         
-
-        // one middle
-        // two middle
-        //-> two middle always give second one so, no issue
-        // 
-
-
-        // if(fp.next == null) then two middle
-        // if fp == null then start from middle.next;
         
 
         ListNode sp = head;
@@ -30,7 +21,7 @@ class Solution {
             sp=sp.next;
         }
         ListNode ll2 = null;
-        if(fp!=null){ // single  middle so start from middle.next
+        if(fp!=null){ 
             ll2 = sp.next;
         }
         else{
