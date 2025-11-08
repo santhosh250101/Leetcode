@@ -1,53 +1,56 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
 
-        int[] nse = nextSmaller(heights);
-        int[] pse = previousSmaller(heights);
-
-        int area=0;
-        int n = heights.length;
-        for(int i=0;i<n;i++){
-            area= Math.max(area, (nse[i]-pse[i]-1)* heights[i]);
+        int[] nse = Nse(heights);
+        int[] pse = Pse(heights);
+        int ans =0;
+        for(int i=0;i<heights.length;i++){
+            int area = heights[i] * (nse[i]-pse[i]-1);
+            ans = Math.max(ans,area);
         }
-        return area;
+        return ans;
     }
 
-    public static int[] previousSmaller(int[] heights){
-        int n= heights.length;
+    public int[] Nse(int[] heights){
+        int n = heights.length;
         int[] ans = new int[n];
         Stack<Integer> st = new Stack<>();
+
+        for(int i=heights.length-1;i>=0;i--){
+            while(!st.isEmpty() && (heights[i]<=heights[st.peek()])){
+                st.pop();
+            }
+            if(st.isEmpty()){
+                ans[i] = heights.length;
+            }
+            else{
+                ans[i]= st.peek();
+            }
+            st.push(i);
+        }
+        return ans;
+    }
+    public int[] Pse(int[] heights){
+        int n = heights.length;
+        int[] ans = new int[n];
+        Stack<Integer> st = new Stack<>();
+
         for(int i=0;i<n;i++){
-            int curr = heights[i];
-            while(!st.isEmpty() && curr<= heights[st.peek()]){
+            while(!st.isEmpty() && (heights[i]<=heights[st.peek()])){
                 st.pop();
             }
             if(st.isEmpty()){
                 ans[i] = -1;
             }
             else{
-                ans[i] = st.peek();
+                ans[i]= st.peek();
             }
             st.push(i);
         }
         return ans;
     }
-    public static int[] nextSmaller(int[] heights){
-        int n= heights.length;
-        int[] ans = new int[n];
-        Stack<Integer> st = new Stack<>();
-        for(int i=n-1;i>=0;i--){
-            int curr = heights[i];
-            while(!st.isEmpty() && curr<= heights[st.peek()]){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                ans[i] = n;
-            }
-            else{
-                ans[i] = st.peek();
-            }
-            st.push(i);
-        }
-        return ans;
-    }
+
+
+
+
 }
